@@ -1,0 +1,4 @@
+*sline-style.txt*   setup statusline style
+
+
+
